@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Monaliza!
 
-<!--
-**Monaliza-Panggabean/Monaliza-Panggabean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems Student  
+💻 Interested in Web Development & UI/UX Design
 
-Here are some ideas to get you started:
+## 💻 Skills & Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 HTML
+- 🎨 CSS
+- 🎨 Figma
+- 🖌️ UI/UX Design
+
+
+## 📚 Currently Learning
+
+- Web Development
+- UI/UX Design
+- Responsive Web Design
+- User Interface Design
+
+## 🎯 My Goal
+
+To improve my skills in Web Development and UI/UX Design and create websites that are simple, useful, and easy to use.
+
+## 🎮 Fun Fact
+
+I enjoy playing games in my free time 🎮
+
+## 🌐 Connect With Me
+
+- GitHub: Monaliza-panggabean
+
+---
+
+⭐ Thanks for visiting my profile!
